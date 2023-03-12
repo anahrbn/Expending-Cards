@@ -2,7 +2,7 @@
 
 **Expanding Cards**
 
-Expanding Cards is a simple web application that showcases a collection of cards that expand when clicked. The application is built using HTML, CSS, and JavaScript and is a great example for beginners who want to learn how to create interactive web applications.
+Expanding Cards is a simple web application that showcases a collection of cards that expand when clicked. The application is built using HTML, CSS, and JavaScript.
 
 **Features**
 
